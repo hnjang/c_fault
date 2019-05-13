@@ -1,3 +1,8 @@
+/* Code by ephemient
+ * Please refer to ephemient's answer on below S.O. page
+ *  - https://stackoverflow.com/questions/2069450/how-to-get-a-bus-error
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
