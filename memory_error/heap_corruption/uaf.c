@@ -6,5 +6,5 @@ int main(int argc, char **argv) {
     free(array);
     array[0] = 0; // BOOM
 	printf("you reached end of program\n");
-	return;
+	return 0;
 }
